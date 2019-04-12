@@ -1,0 +1,4 @@
+Adrian Davis, Toyota, Prius, 04/03/2019
+Adrian Davis, Toyota, Prius, 04/04/2019
+Adrian Davis, Toyota, Corolla, 04/05/2019
+Adrian Davis, Toyota, Camry, 04/03/2019

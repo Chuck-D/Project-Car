@@ -1,0 +1,2 @@
+String modelYear, String make, String model, double price, String engineType, int currentMileage, int mpg, String transmissionType, boolean isUsed, int vinNumber
+2019, Ford, MUSTANG BULLITT, 51345, 5.0L Ti-VCT V8, 8, 15 City/ 24 Hwy, Manual transmission, False, JH4TB2H26CC000000
